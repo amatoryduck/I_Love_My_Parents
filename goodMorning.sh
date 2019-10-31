@@ -1,5 +1,5 @@
 #!/bin/bash
 
 echo "saying good morning"
-osascript sendMessage.scpt +13014374472 'good morning'
-osascript sendMessage.scpt +13014378533 'bom dia'
+osascript sendMessage.scpt <MY PARENTS PHONE NUMBER> 'good morning'
+osascript sendMessage.scpt <MY PARENTS PHONE NUMBER> 'bom dia'
